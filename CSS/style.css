@@ -1,0 +1,30 @@
+<style>
+
+
+     body {
+background-color: aqua;
+}
+
+      h1 {
+color: Gainsboro; 
+font-family:Bookman Old Style;
+background-color: aqua;
+text-align: left;
+} 
+
+      h2 {
+color: Gainsboro; 
+font-family: Bookman Old Style;
+font-size: 1em;
+background-color: aqua;
+}   
+
+      p {
+color: aqua;
+font-family: Bookman Old Style;
+background-color: Gainsboro;  
+text-align: left;
+}
+   
+
+  </style>
